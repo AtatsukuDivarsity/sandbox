@@ -1,2 +1,2 @@
-# sandbix
+# sandbox
 sandbox
